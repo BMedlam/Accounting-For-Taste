@@ -12,10 +12,10 @@ The raw dataset can be downloaded here: https://drive.google.com/file/d/14V8xvV-
 
 The notebooks in order are as follows:
 
-Loading and Cleaning
-EDA
-Pre-Processing
-Modelling
+- Loading and Cleaning
+- EDA
+- Pre-Processing
+- Modelling
 
 The folders in this file are required:
 
