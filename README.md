@@ -2,7 +2,7 @@ Hi folks!
 
 My name is Benedict Medlam, welcome to my capstone project submission for BrainStation's Data Science Diploma. 
 
-My project title is, "Pedicting London Property Characteristics that Make for a Successful Airbnb Rental".
+My project title is, "Predicting London Property Characteristics that Make for a Successful Airbnb Rental".
 
 I will use a range of statistical models and machine learning methods throughout this project (exact ML methods are TBC).
 
