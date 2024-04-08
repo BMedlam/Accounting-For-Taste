@@ -14,6 +14,8 @@ The notebooks in order are as follows:
 
 - Loading and Cleaning
 - EDA
+- Preprocessing
+- Initial Modelling
 
 The folders in this file are required:
 
