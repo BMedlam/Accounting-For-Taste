@@ -1,3 +1,6 @@
 data/
 *.pyc
 
+airbnb_ldn_cv.csv
+airbnb_ldn_tfidf.csv
+location_airbnb_ldn_3.csv
