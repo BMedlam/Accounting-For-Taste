@@ -1,3 +1,6 @@
+![image](https://github.com/brainstation-datascience/capstone-BMedlam/assets/159808208/4631e2a9-f1f0-4fc5-992d-c4d07bc06d79)
+
+
 Hi folks!
 
 My name is Benedict Medlam, welcome to my capstone project submission for BrainStation's Data Science Diploma. 
