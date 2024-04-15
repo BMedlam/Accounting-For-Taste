@@ -1,10 +1,16 @@
-![image](https://github.com/brainstation-datascience/capstone-BMedlam/assets/159808208/4631e2a9-f1f0-4fc5-992d-c4d07bc06d79)
+![image](https://github.com/brainstation-datascience/capstone-BMedlam/assets/159808208/6ff8273e-6dfa-4a21-94a7-4678d6b77f4a)
 
 # Airbnb Property Characteristic's Annual Revnue Predictor
 
 ## Table of Contents
 1. Project Overview
-2. 
+2. Solution Approach
+3. Data
+4. Notebooks
+5. Conclusion
+
+## Project Overview
+
 
 Hi folks!
 
